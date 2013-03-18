@@ -1,0 +1,1 @@
+python search.py --consumer_key="wIrU0frxyxUEbUIZFGaiKw" --consumer_secret="aZRdUncHKe7H7MFVI7MKF_wGzjw" --token="GkA-IDt57ubfkldEHeVZpZY9rzMaCt3K" --token_secret="sd99TUXp2BlUSVWVM1q7YbgqiUI" --location="sf" --term="bars"

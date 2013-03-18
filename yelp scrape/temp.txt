@@ -1,0 +1,996 @@
+{
+  "businesses": [
+    {
+      "categories": [
+        [
+          "Beer, Wine & Spirits", 
+          "beer_and_wine"
+        ], 
+        [
+          "Wine Bars", 
+          "wine_bars"
+        ]
+      ], 
+      "display_phone": "+1-415-503-1033", 
+      "id": "city-beer-store-san-francisco", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/oFY1Jl7nLYR1GFm9KJD-hw/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1168 Folsom St"
+        ], 
+        "city": "San Francisco", 
+        "coordinate": {
+          "latitude": 37.7756291, 
+          "longitude": -122.4095312
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Hallam St & Langton St", 
+        "display_address": [
+          "1168 Folsom St", 
+          "(b/t Hallam St & Langton St)", 
+          "SoMa", 
+          "San Francisco, CA 94103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "SoMa"
+        ], 
+        "postal_code": "94103", 
+        "state_code": "CA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/city-beer-store-san-francisco", 
+      "name": "City Beer Store", 
+      "phone": "4155031033", 
+      "rating": 4.5, 
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/stars_small_4_half.png", 
+      "review_count": 466, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/vjJw2wvfJMVSWfdYjfZaMg/ms.jpg", 
+      "snippet_text": "I must've passed this place a thousand times when I lived in the area but I've only made it here after moving out of SoMa. \n\nUnassuming from the outside...", 
+      "url": "http://www.yelp.com/biz/city-beer-store-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "Pubs", 
+          "pubs"
+        ]
+      ], 
+      "display_phone": "+1-415-928-2414", 
+      "id": "the-black-horse-london-pub-san-francisco", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/Ii9fKzgFRlHmGiQxvAEzUg/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1514 Union St"
+        ], 
+        "city": "San Francisco", 
+        "coordinate": {
+          "latitude": 37.7986011, 
+          "longitude": -122.4244735
+        }, 
+        "country_code": "US", 
+        "cross_streets": "United States Highway 101 & Franklin St", 
+        "display_address": [
+          "1514 Union St", 
+          "(b/t United States Highway 101 & Franklin St)", 
+          "Marina/Cow Hollow", 
+          "San Francisco, CA 94123"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Marina/Cow Hollow"
+        ], 
+        "postal_code": "94123", 
+        "state_code": "CA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/the-black-horse-london-pub-san-francisco", 
+      "name": "The Black Horse London Pub", 
+      "phone": "4159282414", 
+      "rating": 4.5, 
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/stars_small_4_half.png", 
+      "review_count": 208, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/X39wpaReuQJkPLE1PzsJWg/ms.jpg", 
+      "snippet_text": "The list of 10 Commandments nailed to the wall dictate something along the lines of \"Thou shalt give up your seat to a woman.\" as the first commandment....", 
+      "url": "http://www.yelp.com/biz/the-black-horse-london-pub-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "Wine Bars", 
+          "wine_bars"
+        ]
+      ], 
+      "display_phone": "+1-415-421-9200", 
+      "id": "barrique-san-francisco-2", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/syzTAlzHIPbK9-iuKSuLhg/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "461 Pacific Ave"
+        ], 
+        "city": "San Francisco", 
+        "coordinate": {
+          "latitude": 37.797291, 
+          "longitude": -122.4031343
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Osgood Pl & Montgomery St", 
+        "display_address": [
+          "461 Pacific Ave", 
+          "(b/t Osgood Pl & Montgomery St)", 
+          "Financial District", 
+          "San Francisco, CA 94133"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Financial District"
+        ], 
+        "postal_code": "94133", 
+        "state_code": "CA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/barrique-san-francisco-2", 
+      "name": "Barrique", 
+      "phone": "4154219200", 
+      "rating": 4.5, 
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/stars_small_4_half.png", 
+      "review_count": 154, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/TXXQ-VaPgeNSTJcmBZFsIg/ms.jpg", 
+      "snippet_text": "I visited San Francisco last weekend and found this awesome wine bar, Barrique. My boyfriend and I were looking for a wine bar close to our hotel (we stayed...", 
+      "url": "http://www.yelp.com/biz/barrique-san-francisco-2"
+    }, 
+    {
+      "categories": [
+        [
+          "Wine Bars", 
+          "wine_bars"
+        ]
+      ], 
+      "display_phone": "+1-415-241-9463", 
+      "id": "pause-wine-bar-san-francisco", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/Ik9nKT0xB7SLzR96ieBKuQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1666 Market St"
+        ], 
+        "city": "San Francisco", 
+        "coordinate": {
+          "latitude": 37.7734519, 
+          "longitude": -122.4217166
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Page St & 12th St", 
+        "display_address": [
+          "1666 Market St", 
+          "(b/t Page St & 12th St)", 
+          "Hayes Valley", 
+          "San Francisco, CA 94102"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Hayes Valley"
+        ], 
+        "postal_code": "94102", 
+        "state_code": "CA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/pause-wine-bar-san-francisco", 
+      "name": "Pause Wine Bar", 
+      "phone": "4152419463", 
+      "rating": 4.5, 
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/stars_small_4_half.png", 
+      "review_count": 77, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/Yj6M_Me_jAXumrZG25HcmQ/ms.jpg", 
+      "snippet_text": "I'm ready to be a regular at Pause. On Friday night I met six friends here and once four or five of us had arrived a member of staff took the initiative and...", 
+      "url": "http://www.yelp.com/biz/pause-wine-bar-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "Wine Bars", 
+          "wine_bars"
+        ], 
+        [
+          "Gastropubs", 
+          "gastropubs"
+        ]
+      ], 
+      "display_phone": "+1-415-525-3013", 
+      "id": "fat-angel-san-francisco", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/sjBY0DCUkoGD6WemzgB7uQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1740 O'Farrell St"
+        ], 
+        "city": "San Francisco", 
+        "coordinate": {
+          "latitude": 37.7832127, 
+          "longitude": -122.4334568
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Fillmore St & Steiner St", 
+        "display_address": [
+          "1740 O'Farrell St", 
+          "(b/t Fillmore St & Steiner St)", 
+          "Western Addition", 
+          "San Francisco, CA 94115"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Western Addition"
+        ], 
+        "postal_code": "94115", 
+        "state_code": "CA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/fat-angel-san-francisco", 
+      "name": "Fat Angel", 
+      "phone": "4155253013", 
+      "rating": 4.5, 
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/stars_small_4_half.png", 
+      "review_count": 375, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/fomDob8SURCaJlisMF3qFA/ms.jpg", 
+      "snippet_text": "YUM YUM YUM! I just moved to San Francisco this past weekend and Fat Angle is probably one of my favorite places to eat thus far! Located just across the...", 
+      "url": "http://www.yelp.com/biz/fat-angel-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "Dive Bars", 
+          "divebars"
+        ]
+      ], 
+      "display_phone": "+1-415-885-4788", 
+      "id": "hi-lo-club-san-francisco", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/q97oHXybLGLHaSZui6PzoQ/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1423 Polk St"
+        ], 
+        "city": "San Francisco", 
+        "coordinate": {
+          "latitude": 37.7899729, 
+          "longitude": -122.4206713
+        }, 
+        "country_code": "US", 
+        "cross_streets": "California St & Pine St", 
+        "display_address": [
+          "1423 Polk St", 
+          "(b/t California St & Pine St)", 
+          "Nob Hill", 
+          "San Francisco, CA 94109"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Nob Hill"
+        ], 
+        "postal_code": "94109", 
+        "state_code": "CA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/hi-lo-club-san-francisco", 
+      "name": "Hi-Lo Club", 
+      "phone": "4158854788", 
+      "rating": 4.5, 
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/stars_small_4_half.png", 
+      "review_count": 33, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/cOWf-JPx-Q7CWHzw_olIeg/ms.jpg", 
+      "snippet_text": "To sum it up: The perfect dive\nReturnability: Every week\nSuperstar Factor: The quiet supporting actor in a kinda shitty movie who manages to make you...", 
+      "url": "http://www.yelp.com/biz/hi-lo-club-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "Gay Bars", 
+          "gaybars"
+        ], 
+        [
+          "Dive Bars", 
+          "divebars"
+        ]
+      ], 
+      "display_phone": "+1-415-861-1310", 
+      "id": "last-call-bar-san-francisco-2", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/Gnohh_1WvfILLV36UZBiLw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "3988 18th St"
+        ], 
+        "city": "San Francisco", 
+        "coordinate": {
+          "latitude": 37.7610403, 
+          "longitude": -122.4324696
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Sanchez St & Noe St", 
+        "display_address": [
+          "3988 18th St", 
+          "(b/t Sanchez St & Noe St)", 
+          "Castro", 
+          "San Francisco, CA 94114"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Castro"
+        ], 
+        "postal_code": "94114", 
+        "state_code": "CA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/last-call-bar-san-francisco-2", 
+      "name": "Last Call Bar", 
+      "phone": "4158611310", 
+      "rating": 4.5, 
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/stars_small_4_half.png", 
+      "review_count": 33, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/BfqSKOTcBmOQIq0_J4utAQ/ms.jpg", 
+      "snippet_text": "The Castro can suck\nBut man, this bar is the best\nReal neighborhood bar", 
+      "url": "http://www.yelp.com/biz/last-call-bar-san-francisco-2"
+    }, 
+    {
+      "categories": [
+        [
+          "Wine Bars", 
+          "wine_bars"
+        ]
+      ], 
+      "display_phone": "+1-415-674-3567", 
+      "id": "the-hidden-vine-san-francisco", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/vCcatfihMsw9MWoPDpslkQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "408 Merchant St"
+        ], 
+        "city": "San Francisco", 
+        "coordinate": {
+          "latitude": 37.7955176, 
+          "longitude": -122.4005286
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Battery St & Sansome St", 
+        "display_address": [
+          "408 Merchant St", 
+          "(b/t Battery St & Sansome St)", 
+          "Financial District", 
+          "San Francisco, CA 94111"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Financial District"
+        ], 
+        "postal_code": "94111", 
+        "state_code": "CA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/the-hidden-vine-san-francisco", 
+      "name": "The Hidden Vine", 
+      "phone": "4156743567", 
+      "rating": 4.5, 
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/stars_small_4_half.png", 
+      "review_count": 498, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/cYOtYq2cNdb_aFPel-XaWQ/ms.jpg", 
+      "snippet_text": "First time to the new location. It was awesome although it feels very different from the old location, which is very homey. \n\nThe new location is good for...", 
+      "url": "http://www.yelp.com/biz/the-hidden-vine-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "Wine Bars", 
+          "wine_bars"
+        ]
+      ], 
+      "display_phone": "+1-415-703-0403", 
+      "id": "h\u00f4tel-biron-san-francisco-2", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/aM4zANsRfsc6Oz6hW5vQOA/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "45 Rose St"
+        ], 
+        "city": "San Francisco", 
+        "coordinate": {
+          "latitude": 37.7737062, 
+          "longitude": -122.4217444
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Gough St & Market St", 
+        "display_address": [
+          "45 Rose St", 
+          "(b/t Gough St & Market St)", 
+          "Hayes Valley", 
+          "San Francisco, CA 94102"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Hayes Valley"
+        ], 
+        "postal_code": "94102", 
+        "state_code": "CA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/h%C3%B4tel-biron-san-francisco-2", 
+      "name": "H\u00f4tel Biron", 
+      "phone": "4157030403", 
+      "rating": 4.0, 
+      "rating_img_url": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/stars_small_4.png", 
+      "review_count": 521, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/zm5oG5zqXH1RJuVvwgFEmA/ms.jpg", 
+      "snippet_text": "Good wine, cozy and dim ambiance, quiet enough to hold a conversation, and unassuming yet intimate enough for a date.\n\nI'm admittedly biased because my...", 
+      "url": "http://www.yelp.com/biz/h%C3%B4tel-biron-san-francisco-2"
+    }, 
+    {
+      "categories": [
+        [
+          "Dive Bars", 
+          "divebars"
+        ]
+      ], 
+      "display_phone": "+1-415-771-9655", 
+      "id": "21-club-san-francisco", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/ly4rUCvVVBcO-Q5IHPI8-g/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "98 Turk St"
+        ], 
+        "city": "San Francisco", 
+        "coordinate": {
+          "latitude": 37.7832408, 
+          "longitude": -122.4106975
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Mason St & Market St", 
+        "display_address": [
+          "98 Turk St", 
+          "(b/t Mason St & Market St)", 
+          "Tenderloin", 
+          "San Francisco, CA 94102"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Tenderloin", 
+          "Union Square"
+        ], 
+        "postal_code": "94102", 
+        "state_code": "CA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/21-club-san-francisco", 
+      "name": "21 Club", 
+      "phone": "4157719655", 
+      "rating": 4.0, 
+      "rating_img_url": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/stars_small_4.png", 
+      "review_count": 65, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/QSnBmtsoznPwvFYxyceANg/ms.jpg", 
+      "snippet_text": "This story is mainly about how the bathroom is for customers only.\n\nSo, I was hanging out for a few hours with some friends, sitting at the corner of the...", 
+      "url": "http://www.yelp.com/biz/21-club-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "Bars", 
+          "bars"
+        ]
+      ], 
+      "display_phone": "+1-415-503-0630", 
+      "id": "blackbird-san-francisco", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/Cm_TRiNFOFJEfzfOF0Jf6w/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "2124 Market St"
+        ], 
+        "city": "San Francisco", 
+        "coordinate": {
+          "latitude": 37.767339, 
+          "longitude": -122.42969
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Church St & Sanchez St", 
+        "display_address": [
+          "2124 Market St", 
+          "(b/t Church St & Sanchez St)", 
+          "Castro", 
+          "San Francisco, CA 94114"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Castro"
+        ], 
+        "postal_code": "94114", 
+        "state_code": "CA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/blackbird-san-francisco", 
+      "name": "Blackbird", 
+      "phone": "4155030630", 
+      "rating": 4.0, 
+      "rating_img_url": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/stars_small_4.png", 
+      "review_count": 403, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/7Vs1i0IerlcRSYN_fdRxBw/ms.jpg", 
+      "snippet_text": "Another awesome cocktail bar!\n\nI loved my drink here, and dug the vibe. The bartender was nice and was able to make amazing artisanal cocktails pretty...", 
+      "url": "http://www.yelp.com/biz/blackbird-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "Wine Bars", 
+          "wine_bars"
+        ]
+      ], 
+      "display_phone": "+1-415-682-4116", 
+      "id": "innerfog-san-francisco-3", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/-jcwdY6HlvbipEWTCN1wOg/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "545 Irving St"
+        ], 
+        "city": "San Francisco", 
+        "coordinate": {
+          "latitude": 37.7641387, 
+          "longitude": -122.4637909
+        }, 
+        "country_code": "US", 
+        "cross_streets": "6th Ave & 7th Ave", 
+        "display_address": [
+          "545 Irving St", 
+          "(b/t 6th Ave & 7th Ave)", 
+          "Inner Sunset", 
+          "San Francisco, CA 94122"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Inner Sunset"
+        ], 
+        "postal_code": "94122", 
+        "state_code": "CA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/innerfog-san-francisco-3", 
+      "name": "InnerFog", 
+      "phone": "4156824116", 
+      "rating": 4.5, 
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/stars_small_4_half.png", 
+      "review_count": 113, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/lkPzb7v_aOhCujZO7XwHfA/ms.jpg", 
+      "snippet_text": "I thought I rated this place but I was poorly mistaken. Instead, I had mentioned it as an example in a review of another wine bar,...", 
+      "url": "http://www.yelp.com/biz/innerfog-san-francisco-3"
+    }, 
+    {
+      "categories": [
+        [
+          "Wine Bars", 
+          "wine_bars"
+        ]
+      ], 
+      "display_phone": "+1-415-567-6503", 
+      "id": "corkage-sake-and-wine-shop-san-francisco", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/XEa6qyl4LYx3zEwFAMhMww/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1302 Fulton St"
+        ], 
+        "city": "San Francisco", 
+        "coordinate": {
+          "latitude": 37.777048, 
+          "longitude": -122.4386
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Divisadero St & Broderick St", 
+        "display_address": [
+          "1302 Fulton St", 
+          "(b/t Divisadero St & Broderick St)", 
+          "Western Addition", 
+          "San Francisco, CA 94117"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Western Addition", 
+          "NoPa"
+        ], 
+        "postal_code": "94117", 
+        "state_code": "CA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/corkage-sake-and-wine-shop-san-francisco", 
+      "name": "Corkage Sake & Wine Shop", 
+      "phone": "4155676503", 
+      "rating": 4.5, 
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/stars_small_4_half.png", 
+      "review_count": 63, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/7DeFlk-5iFFEwXGVOHv9iA/ms.jpg", 
+      "snippet_text": "Todd's the lucky dude ago gets to sell sake by the bottle and manage the bar at Corkage, and Corkage is very fortunate to have Todd. A favorite place, one...", 
+      "url": "http://www.yelp.com/biz/corkage-sake-and-wine-shop-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "Dive Bars", 
+          "divebars"
+        ]
+      ], 
+      "display_phone": "+1-415-441-9336", 
+      "id": "geary-club-san-francisco", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/h-6iSjGMTMCmCwJbu34l4g/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "768 Geary St"
+        ], 
+        "city": "San Francisco", 
+        "coordinate": {
+          "latitude": 37.7864372, 
+          "longitude": -122.415753
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Hyde St", 
+        "display_address": [
+          "768 Geary St", 
+          "(b/t Hyde St)", 
+          "Tenderloin", 
+          "San Francisco, CA 94109"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Tenderloin"
+        ], 
+        "postal_code": "94109", 
+        "state_code": "CA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/geary-club-san-francisco", 
+      "name": "Geary Club", 
+      "phone": "4154419336", 
+      "rating": 4.0, 
+      "rating_img_url": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/stars_small_4.png", 
+      "review_count": 82, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/T0bxYczpyv4ROANooeIWUw/ms.jpg", 
+      "snippet_text": "This tiny dive bar is exactly what you want in a dive bar: cheap drinks, intimate but comfortable ambiance, and a great bartender. Lilliana, the bartender,...", 
+      "url": "http://www.yelp.com/biz/geary-club-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "Wine Bars", 
+          "wine_bars"
+        ]
+      ], 
+      "display_phone": "+1-415-274-8423", 
+      "id": "antologia-vinoteca-san-francisco", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/utI70tOWsK1eslvSOC1plA/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "515 Broadway St"
+        ], 
+        "city": "San Francisco", 
+        "coordinate": {
+          "latitude": 37.7980487, 
+          "longitude": -122.4058071
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Romolo Pl & Kearny St", 
+        "display_address": [
+          "515 Broadway St", 
+          "(b/t Romolo Pl & Kearny St)", 
+          "North Beach/Telegraph Hill", 
+          "San Francisco, CA 94133"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "North Beach/Telegraph Hill", 
+          "Chinatown"
+        ], 
+        "postal_code": "94133", 
+        "state_code": "CA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/antologia-vinoteca-san-francisco", 
+      "name": "Antologia Vinoteca", 
+      "phone": "4152748423", 
+      "rating": 5.0, 
+      "rating_img_url": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/stars_5.png", 
+      "rating_img_url_large": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/stars_large_5.png", 
+      "rating_img_url_small": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/stars_small_5.png", 
+      "review_count": 16, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/0vV_TZTts-LtWzWfUpDYHQ/ms.jpg", 
+      "snippet_text": "I visited Antologia for the first time a few weeks ago and it quickly has become one of my favorite wine bars in SF.  Antologia features Latin American...", 
+      "url": "http://www.yelp.com/biz/antologia-vinoteca-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "Lounges", 
+          "lounges"
+        ], 
+        [
+          "Steakhouses", 
+          "steak"
+        ]
+      ], 
+      "display_phone": "+1-415-633-3000", 
+      "id": "seasons-bar-and-lounge-san-francisco", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/-v4qjDTrpZc_kAOnJpstRg/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "The Four Seasons", 
+          "757 Market St"
+        ], 
+        "city": "San Francisco", 
+        "coordinate": {
+          "latitude": 37.786212, 
+          "longitude": -122.404303
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "The Four Seasons", 
+          "757 Market St", 
+          "Union Square", 
+          "San Francisco, CA 94103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Union Square", 
+          "Financial District"
+        ], 
+        "postal_code": "94103", 
+        "state_code": "CA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/seasons-bar-and-lounge-san-francisco", 
+      "name": "Seasons Bar and Lounge", 
+      "phone": "4156333000", 
+      "rating": 4.0, 
+      "rating_img_url": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/stars_small_4.png", 
+      "review_count": 178, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/N3ZUZJydubqvv892cTOjrw/ms.jpg", 
+      "snippet_text": "I am typically opposed to lounging/drinking in hotels.\nEspecially in great cities with so many options.\n\nHowever, this is an exception.\nI had the most...", 
+      "url": "http://www.yelp.com/biz/seasons-bar-and-lounge-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "Pubs", 
+          "pubs"
+        ]
+      ], 
+      "display_phone": "+1-415-252-9082", 
+      "id": "thieves-tavern-san-francisco", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/I9lyTSB6jIklFZ3jgfBbew/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "496 14th St"
+        ], 
+        "city": "San Francisco", 
+        "coordinate": {
+          "latitude": 37.7681373, 
+          "longitude": -122.4241682
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Guerrero St & Valencia St", 
+        "display_address": [
+          "496 14th St", 
+          "(b/t Guerrero St & Valencia St)", 
+          "Mission", 
+          "San Francisco, CA 94103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Mission"
+        ], 
+        "postal_code": "94103", 
+        "state_code": "CA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/thieves-tavern-san-francisco", 
+      "name": "Thieves Tavern", 
+      "phone": "4152529082", 
+      "rating": 4.0, 
+      "rating_img_url": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/stars_small_4.png", 
+      "review_count": 191, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/MT6nDVFr7T3ZF35CzY0U5w/ms.jpg", 
+      "snippet_text": "On a Saturday night, if you are looking for a a solid bar with a great crowd, good tunes, and killer PBR specials.... THIS IS YOUR PLACE.\n\nThieves is a tiny...", 
+      "url": "http://www.yelp.com/biz/thieves-tavern-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "Wine Bars", 
+          "wine_bars"
+        ]
+      ], 
+      "display_phone": "+1-415-401-8984", 
+      "id": "yield-wine-bar-san-francisco", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/vpx60rklNdMqIzytw4XaLw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "2490 3rd St"
+        ], 
+        "city": "San Francisco", 
+        "coordinate": {
+          "latitude": 37.7582172, 
+          "longitude": -122.3885989
+        }, 
+        "country_code": "US", 
+        "cross_streets": "20th St & 22nd St", 
+        "display_address": [
+          "2490 3rd St", 
+          "(b/t 20th St & 22nd St)", 
+          "Dogpatch", 
+          "San Francisco, CA 94107"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Dogpatch", 
+          "Potrero Hill"
+        ], 
+        "postal_code": "94107", 
+        "state_code": "CA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/yield-wine-bar-san-francisco", 
+      "name": "Yield Wine Bar", 
+      "phone": "4154018984", 
+      "rating": 4.5, 
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/stars_small_4_half.png", 
+      "review_count": 295, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/7m0tNCMzYDwBY6LFRwBvQA/ms.jpg", 
+      "snippet_text": "I don't know whether it's the feel of the restaurant that you get or the service that you get that makes you love this place more, but I swear, if I lived...", 
+      "url": "http://www.yelp.com/biz/yield-wine-bar-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "Wine Bars", 
+          "wine_bars"
+        ]
+      ], 
+      "display_phone": "+1-415-558-9946", 
+      "id": "terroir-natural-wine-merchant-san-francisco", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/hxdZFRGy2PkbwNjEN6O8VQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1116 Folsom St"
+        ], 
+        "city": "San Francisco", 
+        "coordinate": {
+          "latitude": 37.7764852, 
+          "longitude": -122.4081889
+        }, 
+        "country_code": "US", 
+        "cross_streets": "7th St & Langton St", 
+        "display_address": [
+          "1116 Folsom St", 
+          "(b/t 7th St & Langton St)", 
+          "SoMa", 
+          "San Francisco, CA 94103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "SoMa"
+        ], 
+        "postal_code": "94103", 
+        "state_code": "CA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/terroir-natural-wine-merchant-san-francisco", 
+      "name": "Terroir Natural Wine Merchant", 
+      "phone": "4155589946", 
+      "rating": 4.0, 
+      "rating_img_url": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/stars_small_4.png", 
+      "review_count": 258, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/NbhkZ7a8DHS2s3-PJaQxzw/ms.jpg", 
+      "snippet_text": "I can't even describe how much I love this place.  I'm not kidding.  I'm ready to take out my brother (mob style) so I can have his condo and live close to...", 
+      "url": "http://www.yelp.com/biz/terroir-natural-wine-merchant-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "Lounges", 
+          "lounges"
+        ]
+      ], 
+      "display_phone": "+1-415-693-0990", 
+      "id": "tony-niks-cafe-san-francisco", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/REHAPrM2_dxhS5SDZAjSsA/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1534 Stockton St"
+        ], 
+        "city": "San Francisco", 
+        "coordinate": {
+          "latitude": 37.8000854, 
+          "longitude": -122.4089913
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Columbus Ave & Green St", 
+        "display_address": [
+          "1534 Stockton St", 
+          "(b/t Columbus Ave & Green St)", 
+          "North Beach/Telegraph Hill", 
+          "San Francisco, CA 94133"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "North Beach/Telegraph Hill"
+        ], 
+        "postal_code": "94133", 
+        "state_code": "CA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/tony-niks-cafe-san-francisco", 
+      "name": "Tony Nik's Cafe", 
+      "phone": "4156930990", 
+      "rating": 4.5, 
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/stars_small_4_half.png", 
+      "review_count": 194, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/nZ4LlLq_ByKn7m_bsmYVqQ/ms.jpg", 
+      "snippet_text": "Tony Nik's is a dope spot to kill time whilst waiting to dine at overrated restaurants that aren't worth your money. I'm talking one and a half hours here...", 
+      "url": "http://www.yelp.com/biz/tony-niks-cafe-san-francisco"
+    }
+  ], 
+  "region": {
+    "center": {
+      "latitude": 37.779151299999995, 
+      "longitude": -122.42619490000001
+    }, 
+    "span": {
+      "latitude_delta": 0.04605501999999717, 
+      "longitude_delta": 0.08271120000000565
+    }
+  }, 
+  "total": 3423
+}
