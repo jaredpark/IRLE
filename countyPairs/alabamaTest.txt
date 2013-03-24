@@ -1,0 +1,29 @@
+ALABAMA (AL) (01)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Autauga        051  Elmore         101  Montgomery
+003  Baldwin        053  Escambia       103  Morgan
+005  Barbour        055  Etowah         105  Perry
+007  Bibb           057  Fayette        107  Pickens
+009  Blount         059  Franklin       109  Pike
+011  Bullock        061  Geneva         111  Randolph
+013  Butler         063  Greene         113  Russell
+015  Calhoun        065  Hale           115  St. Clair
+017  Chambers       067  Henry          117  Shelby
+019  Cherokee       069  Houston        119  Sumter
+021  Chilton        071  Jackson        121  Talladega
+023  Choctaw        073  Jefferson      123  Tallapoosa
+025  Clarke         075  Lamar          125  Tuscaloosa
+027  Clay           077  Lauderdale     127  Walker
+029  Cleburne       079  Lawrence       129  Washington
+031  Coffee         081  Lee            131  Wilcox
+033  Colbert        083  Limestone      133  Winston
+035  Conecuh        085  Lowndes                        
+037  Coosa          087  Macon                             
+039  Covington      089  Madison   
+041  Crenshaw       091  Marengo            
+043  Cullman        093  Marion    
+045  Dale           095  Marshall         
+047  Dallas         097  Mobile         
+049  DeKalb*        099  Monroe

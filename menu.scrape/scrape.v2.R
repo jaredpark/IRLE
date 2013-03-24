@@ -1,7 +1,7 @@
 # 12/24/2012 - first data pull
 # 03/08/2012 - second, test pull
 
-date = '03_18_2013'
+date = '03_23_2013'
 file.location = '~/projects/Reich/menu.scrape/outputs.pull2/'
 
 ################

@@ -87,6 +87,29 @@ get.city.rest.urls = function(state, city){
   
   return(city.rest.urls)
 }
+
+alt.menu.urls = function(rest.urls){
+  url.list.output = list()
+  for (rest in 1:length(rest.urls)){
+    url.list.output[[names(rest.urls)[rest]]] = list('main' = rest.urls[rest])
+    rest.url = rest.urls[rest]
+    doc = htmlTreeParse(rest.url, isURL=T)
+    top = xmlRoot(doc)
+    children = xmlChildren(top)$body
+    path = which(as.character(xmlApply(children, xmlAttrs)) == 'content')
+    path = c(path, 1)
+    if (is.element('alternative_menus', as.character(xmlApply(children[[path[1]]][[path[2]]], xmlAttrs)))){
+      path = c(path, which(as.character(xmlApply(children[[path[1]]][[path[2]]], xmlAttrs)) == 'alternative_menus'))
+      path = c(path, 1)
+      num.alt.menus = length(xmlApply(children[[path[1]]][[path[2]]][[path[3]]][[path[4]]], xmlAttrs)) - 2
+      for (alt in 1:num.alt.menus){
+        alt.url = paste('http://www.allmenus.com',xmlGetAttr(children[[path[1]]][[path[2]]][[path[3]]][[path[4]]][[2+alt]][[1]], 'href'), sep = '')
+        url.list.output[[names(rest.urls)[rest]]][[alt+1]] = alt.url
+      }
+    }
+  }
+  return(url.list.output)
+}
 # b = alt.menu.urls(a)
 
 get.menu.docs = function(url.list){
