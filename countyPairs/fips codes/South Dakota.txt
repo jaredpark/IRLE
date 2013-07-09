@@ -1,0 +1,33 @@
+SOUTH DAKOTA (SD) (46)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+003  Aurora         053  Gregory        103  Pennington
+005  Beadle         055  Haakon         105  Perkins       
+007  Bennett        057  Hamlin         107  Potter 
+009  Bon Homme      059  Hand           109  Roberts
+011  Brookings      061  Hanson         111  Sanborn  
+
+013  Brown          063  Harding        113  Shannon
+015  Brule          065  Hughes         115  Spink        
+017  Buffalo        067  Hutchinson     117  Stanley 
+019  Butte          069  Hyde           119  Sully 
+021  Campbell       071  Jackson        121  Todd 
+
+023  Charles Mix    073  Jerauld        123  Tripp
+025  Clark          075  Jones          125  Turner       
+027  Clay           077  Kingsbury      127  Union
+029  Codington      079  Lake           129  Walworth
+031  Corson         081  Lawrence       135  Yankton 
+
+033  Custer         083  Lincoln        137  Ziebach  
+035  Davison        085  Lyman     
+037  Day            087  McCook
+039  Deuel          089  McPherson
+041  Dewey          091  Marshall  
+
+043  Douglas        093  Meade 
+045  Edmunds        095  Mellette         
+047  Fall River     097  Miner 
+049  Faulk          099  Minnehaha   
+051  Grant          101  Moody   

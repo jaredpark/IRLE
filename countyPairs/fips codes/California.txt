@@ -1,0 +1,27 @@
+ CALIFORNIA (CA) (06)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Alameda        041  Marin          081  San Mateo
+003  Alpine         043  Mariposa       083  Santa Barbara
+005  Amador         045  Mendocino      085  Santa Clara
+007  Butte          047  Merced         087  Santa Cruz
+009  Calaveras      049  Modoc          089  Shasta
+
+011  Colusa         051  Mono           091  Sierra
+013  Contra Costa   053  Monterey       093  Siskiyou
+015  Del Norte      055  Napa           095  Solano
+017  El Dorado      057  Nevada         097  Sonoma
+019  Fresno         059  Orange         099  Stanislaus
+
+021  Glenn          061  Placer         101  Sutter
+023  Humboldt       063  Plumas         103  Tehama           
+025  Imperial       065  Riverside      105  Trinity
+027  Inyo           067  Sacramento     107  Tulare
+029  Kern           069  San Benito     109  Tuolumne
+
+031  Kings          071  San Bernardino 111  Ventura  
+033  Lake           073  San Diego      113  Yolo           
+035  Lassen         075  San Francisco  115  Yuba
+037  Los Angeles    077  San Joaquin
+039  Madera         079  San Luis Obispo

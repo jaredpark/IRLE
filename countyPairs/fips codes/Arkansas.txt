@@ -1,0 +1,33 @@
+ARKANSAS (AR) (05)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Arkansas       051  Garland        101  Newton
+003  Ashley         053  Grant          103  Ouachita
+005  Baxter         055  Greene         105  Perry
+007  Benton         057  Hempstead      107  Phillips       
+009  Boone          059  Hot Spring     109  Pike      
+
+011  Bradley        061  Howard         111  Poinsett
+013  Calhoun        063  Independence   113  Polk
+015  Carroll        065  Izard          115  Pope
+017  Chicot         067  Jackson        117  Prairie
+019  Clark          069  Jefferson      119  Pulaski
+
+021  Clay           071  Johnson        121  Randolph
+023  Cleburne       073  Lafayette      123  St. Francis
+025  Cleveland      075  Lawrence       125  Saline    
+027  Columbia       077  Lee            127  Scott
+029  Conway         079  Lincoln        129  Searcy
+
+031  Craighead      081  Little River   131  Sebastian
+033  Crawford       083  Logan          133  Sevier
+035  Crittenden     085  Lonoke         135  Sharp
+037  Cross          087  Madison        137  Stone
+039  Dallas         089  Marion         139  Union
+
+041  Desha          091  Miller         141  Van Buren
+043  Drew           093  Mississippi    143  Washington
+045  Faulkner       095  Monroe         145  White
+047  Franklin       097  Montgomery     147  Woodruff
+049  Fulton         099  Nevada         149  Yell

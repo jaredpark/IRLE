@@ -1,0 +1,33 @@
+FLORIDA (FL) (12)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Alachua        051  Hendry         101  Pasco
+003  Baker          053  Hernando       103  Pinellas
+005  Bay            055  Highlands      105  Polk
+007  Bradford       057  Hillsborough   107  Putnam
+009  Brevard        059  Holmes         109  St. Johns
+
+011  Broward        061  Indian River   111  St. Lucie
+013  Calhoun        063  Jackson        113  Santa Rosa
+015  Charlotte      065  Jefferson      115  Sarasota
+017  Citrus         067  Lafayette      117  Seminole
+019  Clay           069  Lake           119  Sumter
+
+021  Collier        071  Lee            121  Suwannee
+023  Columbia       073  Leon           123  Taylor
+025  Dade           075  Levy           125  Union
+027  DeSoto*        077  Liberty        127  Volusia
+029  Dixie          079  Madison        129  Wakulla
+
+031  Duval          081  Manatee        131  Walton
+033  Escambia       083  Marion         133  Washington
+035  Flagler        085  Martin
+037  Franklin       087  Monroe
+039  Gadsden        089  Nassau
+
+041  Gilchrist      091  Okaloosa
+043  Glades         093  Okeechobee      
+045  Gulf           095  Orange 
+047  Hamilton       097  Osceola
+049  Hardee         099  Palm Beach

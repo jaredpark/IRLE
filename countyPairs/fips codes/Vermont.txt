@@ -1,0 +1,9 @@
+VERMONT (VT) (50)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Addison        011  Franklin       021  Rutland
+003  Bennington     013  Grand Isle     023  Washington
+005  Caledonia      015  Lamoille       025  Windham
+007  Chittenden     017  Orange         027  Windsor
+009  Essex          019  Orleans

@@ -1,0 +1,69 @@
+GEORGIA (GA) (13)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Appling        113  Fayette        225  Peach
+003  Atkinson       115  Floyd          227  Pickens
+005  Bacon          117  Forsyth        229  Pierce
+007  Baker          119  Franklin       231  Pike
+009  Baldwin        121  Fulton         233  Polk
+
+011  Banks          123  Gilmer         235  Pulaski
+013  Barrow         125  Glascock       237  Putnam
+015  Bartow         127  Glynn          239  Quitman
+017  Ben Hill       129  Gordon         241  Rabun
+019  Berrien        131  Grady          243  Randolph
+
+021  Bibb           133  Greene         245  Richmond
+023  Bleckley       135  Gwinnett       247  Rockdale
+025  Brantley       137  Habersham      249  Schley
+027  Brooks         139  Hall           251  Screven
+029  Bryan          141  Hancock        253  Seminole
+
+031  Bulloch        143  Haralson       255  Spalding
+033  Burke          145  Harris         257  Stephens
+035  Butts          147  Hart           259  Stewart
+037  Calhoun        149  Heard          261  Sumter
+039  Camden         151  Henry          263  Talbot
+
+043  Candler        153  Houston        265  Taliaferro
+045  Carroll        155  Irwin          267  Tattnall
+047  Catoosa        157  Jackson        269  Taylor
+049  Charlton       159  Jasper         271  Telfair
+051  Chatham        161  Jeff Davis     273  Terrell
+
+053  Chattahoochee  163  Jefferson      275  Thomas
+055  Chattooga      165  Jenkins        277  Tift
+057  Cherokee       167  Johnson        279  Toombs
+059  Clarke         169  Jones          281  Towns
+061  Clay           171  Lamar          283  Treutlen
+
+063  Clayton        173  Lanier         285  Troup
+065  Clinch         175  Laurens        287  Turner
+067  Cobb           177  Lee            289  Twiggs
+069  Coffee         179  Liberty        291  Union
+071  Colquitt       181  Lincoln        293  Upson
+
+073  Columbia       183  Long           295  Walker
+075  Cook           185  Lowndes        297  Walton
+077  Coweta         187  Lumpkin        299  Ware
+079  Crawford       189  McDuffie       301  Warren
+081  Crisp          191  Mclntosh       303  Washington
+
+083  Dade           193  Macon          305  Wayne
+085  Dawson         195  Madison        307  Webster
+087  Decatur        197  Marion         309  Wheeler
+089  DeKalb*        199  Meriwether     311  White
+091  Dodge          201  Miller         313  Whitfield
+
+093  Dooly          205  Mitchell       315  Wilcox
+095  Dougherty      207  Monroe         317  Wilkes
+097  Douglas        209  Montgomery     319  Wilkinson
+099  Early          211  Morgan         321  Worth
+101  Echols         213  Murray
+
+103  Effingham      215* Muscogee
+105  Elbert         217  Newton
+107  Emanuel        219  Oconee
+109  Evans          221  Oglethorpe
+111  Fannin         223  Paulding

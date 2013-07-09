@@ -1,0 +1,40 @@
+MINNESOTA (MN) (27)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Aitkin         061  Itasca         121  Pope
+003  Anoka          063  Jackson        123  Ramsey  
+005  Becker         065  Kanabec        125  Red Lake
+007  Beltrami       067  Kandiyohi      127  Redwood
+009  Benton         069  Kittson        129  Renville
+
+011  Big Stone      071  Koochiching    131  Rice
+013  Blue Earth     073  Lac qui Parle   133  Rock  
+015  Brown          075  Lake           135  Roseau
+017  Carlton        077  Lake of the    
+019  Carver              Woods          137  St. Louis
+079  Le Sueur       139  Scott
+
+021  Cass           081  Lincoln        141  Sherburne
+023  Chippewa       083  Lyon           143  Sibley    
+025  Chisago        085  McLeod         145  Stearns
+027  Clay           087  Mahnomen       147  Steele
+029  Clearwater     089  Marshall       149  Stevens
+
+031  Cook           091  Martin         151  Swift
+033  Cottonwood     093  Meeker         153  Todd   
+035  Crow Wing      095  Mille Lacs     155  Traverse
+037  Dakota         097  Morrison       157  Wabasha
+039  Dodge          099  Mower          159  Wadena
+
+041  Douglas        101  Murray         161  Waseca
+043  Faribault      103  Nicollet       163  Washington   
+045  Fillmore       105  Nobles         165  Watonwan 
+047  Freeborn       107  Norman         167  Wilkin    
+049  Goodhue        109  Olmsted        169  Winona
+
+051  Grant          111  Otter Tail     171  Wright
+053  Hennepin       113  Pennington     173  Yellow Medicine   
+055  Houston        115  Pine
+057  Hubbard        117  Pipestone
+059  Isanti         119  Polk

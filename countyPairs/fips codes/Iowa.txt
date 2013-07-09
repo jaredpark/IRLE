@@ -1,0 +1,45 @@
+IOWA (IA) (19)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Adair          071  Fremont        141  O'Brien
+003  Adams          073  Greene         143  Osceola
+005  Allamakee      075  Grundy         145  Page
+007  Appanoose      077  Guthrie        147  Palo Alto
+009  Audubon        079  Hamilton       149  Plymouth
+
+011  Benton         081  Hancock        151  Pocahontas
+013  Black Hawk     083  Hardin         153  Polk
+015  Boone          085  Harrison       155  Pottawattamie
+017  Bremer         087  Henry          157  Poweshiek
+019  Buchanan       089  Howard         159  Ringgold
+
+021  Buena Vista    091  Humboldt       161  Sac
+023  Butler         093  Ida            163  Scott
+025  Calhoun        095  Iowa           165  Shelby
+027  Carroll        097  Jackson        167  Sioux
+029  Cass           099  Jasper         169  Story
+
+031  Cedar          101  Jefferson      171  Tama
+033  Cerro Gordo    103  Johnson        173  Taylor
+035  Cherokee       105  Jones          175  Union
+037  Chickasaw      107  Keokuk         177  Van Buren
+039  Clarke         109  Kossuth        179  Wapello
+
+041  Clay           111  Lee            181  Warren
+043  Clayton        113  Linn           183  Washington
+045  Clinton        115  Louisa         185  Wayne
+047  Crawford       117  Lucas          187  Webster
+049  Dallas         119  Lyon           189  Winnebago
+
+051  Davis          121  Madison        191  Winneshiek
+053  Decatur        123  Mahaska        193  Woodbury
+055  Delaware       125  Marion         195  Worth
+057  Des Moines     127  Marshall       197  Wright
+059  Dickinson      129  Mills                   
+
+061  Dubuque        131  Mitchell
+063  Emmet          133  Monona
+065  Fayette        135  Monroe
+067  Floyd          137  Montgomery
+069  Franklin       139  Muscatine

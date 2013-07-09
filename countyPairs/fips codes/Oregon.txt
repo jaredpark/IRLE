@@ -1,0 +1,21 @@
+OREGON (OR) (41)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Baker          031  Jefferson      061  Union 
+003  Benton         033  Josephine      063  Wallowa   
+005  Clackamas      035  Klamath        065  Wasco
+007  Clatsop        037  Lake           067  Washington
+009  Columbia       039  Lane           069  Wheeler 
+
+011  Coos           041  Lincoln        071  Yamhill   
+013  Crook          043  Linn   
+015  Curry          045  Malheur
+017  Deschutes      047  Marion  
+019  Douglas        049  Morrow 
+
+021  Gilliam        051  Multnomah     
+023  Grant          053  Polk            
+025  Harney         055  Sherman
+027  Hood River     057  Tillamook 
+029  Jackson        059  Umatilla  

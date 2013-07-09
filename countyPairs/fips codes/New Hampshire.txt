@@ -1,0 +1,8 @@
+NEW HAMPSHIRE (NH) (33)
+                
+CODE NAME            CODE NAME            CODE NAME
+---- ----            ---- ----            ---- ----       
+001  Belknap         009  Grafton         017  Strafford
+003  Carroll         011  Hillsborough    019  Sullivan
+005  Cheshire        013  Merrimack 
+007  Coos            015  Rockingham

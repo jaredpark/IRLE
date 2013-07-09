@@ -1,0 +1,15 @@
+UTAH (UT) (49)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Beaver         021  Iron           041  Sevier   
+003  Box Elder      023  Juab           043  Summit   
+005  Cache          025  Kane           045  Tooele   
+007  Carbon         027  Millard        047  Uintah   
+009  Daggett        029  Morgan         049  Utah   
+
+011  Davis          031  Piute          051  Wasatch   
+013  Duchesne       033  Rich           053  Washington         
+015  Emery          035  Salt Lake      055  Wayne   
+017  Garfield       037  San Juan       057   Weber   
+019  Grand          039  Sanpete   

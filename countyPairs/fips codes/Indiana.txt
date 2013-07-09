@@ -1,0 +1,45 @@
+INDIANA (IN) (18)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Adams          071  Jackson        141  St. Joseph                 
+003  Allen          073  Jasper         143  Scott                          
+005  Bartholomew    075  Jay            145  Shelby                  
+007  Benton         077  Jefferson      147  Spencer                       
+009  Blackford      079  Jennings       149  Starke                    
+
+011  Boone          081  Johnson        151  Steuben                    
+013  Brown          083  Knox           153  Sullivan                      
+015  Carroll        085  Kosciusko      155  Switzerland               
+017  Cass           087  Lagrange       157  Tippecanoe            
+019  Clark          089  Lake           159  Tipton                     
+
+021  Clay           091  La Porte       161  Union                  
+023  Clinton        093  Lawrence       163  Vanderburgh                 
+025  Crawford       095  Madison        165  Vermillion                  
+027  Daviess        097  Marion         167  Vigo                    
+029  Dearborn       099  Marshall       169  Wabash              
+
+031  Decatur        101  Martin         171  Warren                 
+033  De Kalb        103  Miami          173  Warrick                      
+035  Delaware       105  Monroe         175  Washington               
+037  Dubois         107  Montgomery     177  Wayne                
+039  Elkhart        109  Morgan         179  Wells                      
+
+041  Fayette        111  Newton         181  White                         
+043  Floyd          113  Noble          183  Whitley                     
+045  Fountain       115  Ohio                    
+047  Franklin       117  Orange                    
+049  Fulton         119  Owen                 
+
+051  Gibson         121  Parke                         
+053  Grant          123  Perry                   
+055  Greene         125  Pike                         
+057  Hamilton       127  Porter                
+059  Hancock        129  Posey                       
+
+061  Harrison       131  Pulaski             
+063  Hendricks      133  Putnam
+065  Henry          135  Randolph
+067  Howard         137  Ripley
+069  Huntington     139  Rush

@@ -1,0 +1,33 @@
+LOUISIANA (LA) (22)
+
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----          
+001  Acadia         051  Jefferson      101  St. Mary
+003  Allen          053  Jefferson Davis  103  St. Tammany
+005  Ascension      055  Lafayette      105  Tangipahoa
+007  Assumption     057  Lafourche      107  Tensas
+009  Avoyelles      059  La Salle       109  Terrebonne
+
+011  Beauregard     061  Lincoln        111  Union
+013  Bienville      063  Livingston     113  Vermilion
+015  Bossier        065  Madison        115  Vernon
+017  Caddo          067  Morehouse      117  Washington
+019  Calcasieu      069  Natchitoches   119  Webster
+
+021  Caldwell       071  Orleans        121  W. Baton Rouge
+023  Cameron        073  Ouachita       123  W. Carroll
+025  Catahoula      075  Plaquemines    125  W. Feliciana   
+027  Claiborne      077  Pointe Coupee  127  Winn
+029  Concordia      079  Rapides
+     
+031  De Soto        081  Red River          
+033  E. Baton Rouge 083  Richland            
+035  E. Carroll     085  Sabine               
+037  E. Feliciana   087  St. Bernard        
+039  Evangeline     089  St. Charles         
+
+041  Franklin       091  St. Helena          
+043  Grant          093  St. James           
+045  Iberia         095  St. John the Baptist                                                   
+047  Iberville      097  St. Landry          
+049  Jackson        099  St. Martin

@@ -1,0 +1,45 @@
+TENNESSEE (TN) (47)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Anderson       071  Hardin         141  Putnam
+003  Bedford        073  Hawkins        143  Rhea     
+005  Benton         075  Haywood        145  Roane
+007  Bledsoe        077  Henderson      147  Robertson
+009  Blount         079  Henry          149  Rutherford
+
+011  Bradley        081  Hickman        151  Scott   
+013  Campbell       083  Houston        153  Sequatchie         
+015  Cannon         085  Humphreys      155  Sevier   
+017  Carroll        087  Jackson        157  Shelby   
+019  Carter         089  Jefferson      159  Smith   
+
+021  Cheatham       091  Johnson        161  Stewart   
+023  Chester        093  Knox           163  Sullivan     
+025  Claiborne      095  Lake           165  Sumner   
+027  Clay           097  Lauderdale     167  Tipton   
+029  Cocke          099  Lawrence       169  Trousdale   
+
+031  Coffee         101  Lewis          171  Unicoi   
+033  Crockett       103  Lincoln        173  Union         
+035  Cumberland     105  Loudon         175  Van Buren   
+037  Davidson       107  McMinn         177  Warren   
+039  Decatur        109  McNairy        179  Washington   
+
+041  DeKalb*        111  Macon          181  Wayne   
+043  Dickson        113  Madison        183  Weakley     
+045  Dyer           115  Marion         185  White   
+047  Fayette        117  Marshall       187  Williamson   
+049  Fentress       119  Maury          189  Wilson   
+
+051  Franklin       121  Meigs   
+053  Gibson         123  Monroe      
+055  Giles          125  Montgomery   
+057  Grainger       127  Moore         
+059  Greene         129  Morgan   
+
+061  Grundy         131  Obion   
+063  Hamblen        133  Overton     
+065  Hamilton       135  Perry   
+067  Hancock        137  Pickett   
+069  Hardeman       139  Polk   

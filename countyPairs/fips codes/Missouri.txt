@@ -1,0 +1,52 @@
+MISSOURI (MO) (29)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Adair          081  Harrison       161  Phelps
+003  Andrew         083  Henry          163  Pike
+005  Atchison       085  Hickory        165  Platte
+007  Audrain        087  Holt           167  Polk
+009  Barry          089  Howard         169  Pulaski
+  
+011  Barton         091  Howell         171  Putnam
+013  Bates          093  Iron           173  Ralls
+015  Benton         095  Jackson        175  Randolph
+017  Bollinger      097  Jasper         177  Ray
+019  Boone          099  Jefferson      179  Reynolds
+
+021  Buchanan       101  Johnson        181  Ripley
+023  Butler         103  Knox           183  St. Charles
+025  Caldwell       105  Laclede        185  St. Clair
+027  Callaway       107  Lafayette      186  Ste. Genevieve
+029  Camden         109  Lawrence       187  St. Francois
+
+031  Cape Girardeau  111  Lewis          189  St. Louis
+033  Carroll        113  Lincoln        195  Saline
+035  Carter         115  Linn           197  Schuyler
+037  Cass           117  Livingston     199  Scotland
+039  Cedar          119  McDonald       201  Scott
+
+041  Chariton       121  Macon          203  Shannon
+043  Christian      123  Madison        205  Shelby
+045  Clark          125  Maries         207  Stoddard
+047  Clay           127  Marion         209  Stone
+049  Clinton        129  Mercer         211  Sullivan
+
+051  Cole           131  Miller         213  Taney
+053  Cooper         133  Mississippi    215  Texas
+055  Crawford       135  Moniteau       217  Vernon
+057  Dade           137  Monroe         219  Warren
+059  Dallas         139  Montgomery     221  Washington
+
+
+061  Daviess        141  Morgan         223  Wayne
+063  DeKalb*        143  New Madrid     225  Webster
+065  Dent           145  Newton         227  Worth
+067  Douglas        147  Nodaway        229  Wright
+069  Dunklin        149  Oregon 
+
+071  Franklin       151  Osage
+073  Gasconade      153  Ozark
+075  Gentry         155  Pemiscot
+077  Greene         157  Perry
+079  Grundy         159  Pettis

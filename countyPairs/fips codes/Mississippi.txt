@@ -1,0 +1,39 @@
+MISSISSIPPI (MS) (28)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Adams          061  Jasper         121  Rankin
+003  Alcorn         063  Jefferson      123  Scott
+005  Amite          065  Jefferson Davis  125  Sharkey
+007  Attala         067  Jones          127  Simpson
+009  Benton         069  Kemper         129  Smith
+
+011  Bolivar        071  Lafayette      131  Stone
+013  Calhoun        073  Lamar          133  Sunflower
+015  Carroll        075  Lauderdale     135  Tallahatchie
+017  Chickasaw      077  Lawrence       137  Tate
+019  Choctaw        079  Leake          139  Tippah
+
+021  Claiborne      081  Lee            141  Tishomingo
+023  Clarke         083  Leflore        143  Tunica
+025  Clay           085  Lincoln        145  Union
+027  Coahoma        087  Lowndes        147  Walthall
+029  Copiah         089  Madison        149  Warren
+
+031  Covington      091  Marion         151  Washington
+033  DeSoto*        093  Marshall       153  Wayne
+035  Forrest        095  Monroe         155  Webster
+037  Franklin       097  Montgomery     157  Wilkinson
+039  George         099  Neshoba        159  Winston
+
+041  Greene         101  Newton         161  Yalobusha
+043  Grenada        103  Noxubee        163  Yazoo
+045  Hancock        105  Oktibbeha
+047  Harrison       107  Panola
+049  Hinds          109  Pearl River
+
+051  Holmes         111  Perry
+053  Humphreys      113  Pike
+055  Issaquena      115  Pontotoc
+057  Itawamba       117  Prentiss
+059  Jackson        119  Quitman

@@ -1,0 +1,45 @@
+NEBRASKA (NE) (31)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Adams          071  Garfield       141  Platte   
+003  Antelope       073  Gosper         143  Polk         
+005  Arthur         075  Grant          145  Red Willow   
+007  Banner         077  Greeley        147  Richardson   
+009  Blaine         079  Hall           149  Rock   
+
+011  Boone          081  Hamilton       151  Saline   
+013  Box Butte      083  Harlan         153  Sarpy        
+015  Boyd           085  Hayes          155  Saunders   
+017  Brown          087  Hitchcock      157  Scotts Bluff   
+019  Buffalo        089  Holt           159  Seward   
+
+021  Burt           091  Hooker         161  Sheridan   
+023  Butler         093  Howard         163  Sherman   
+025  Cass           095  Jefferson      165  Sioux
+027  Cedar          097  Johnson        167  Stanton   
+029  Chase          099  Kearney        169  Thayer   
+
+031  Cherry         101  Keith          171  Thomas    
+033  Cheyenne       103  Keya Paha      173  Thurston          
+035  Clay           105  Kimball        175  Valley   
+037  Colfax         107  Knox           177  Washington   
+039  Cuming         109  Lancaster      179  Wayne   
+
+041  Custer         111  Lincoln        181  Webster 
+043  Dakota         113  Logan          183  Wheeler       
+045  Dawes          115  Loup           185  York
+047  Dawson         117  McPherson 
+049  Deuel          119  Madison 
+
+051  Dixon          121  Merrick 
+053  Dodge          123  Morrill   
+055  Douglas        125  Nance
+057  Dundy          127  Nemaha   
+059  Fillmore       129  Nuckolls   
+
+061  Franklin       131  Otoe   
+063  Frontier       133  Pawnee         
+065  Furnas         135  Perkins
+067  Gage           137  Phelps 
+069  Garden         139  Pierce   

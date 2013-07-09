@@ -1,0 +1,33 @@
+PENNSYLVANIA (PA) (42)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Adams          051  Fayette        101  Philadelphia 
+003  Allegheny      053  Forest         103  Pike      
+005  Armstrong      055  Franklin       105  Potter
+007  Beaver         057  Fulton         107  Schuylkill
+009  Bedford        059  Greene         109  Snyder 
+
+011  Berks          061  Huntingdon     111  Somerset 
+013  Blair          063  Indiana        113  Sullivan    
+015  Bradford       065  Jefferson      115  Susquehanna 
+017  Bucks          067  Juniata        117  Tioga
+019  Butler         069  Lackawanna     119  Union
+
+021  Cambria        071  Lancaster      121  Venango
+023  Cameron        073  Lawrence       123  Warren     
+025  Carbon         075  Lebanon        125  Washington
+027  Centre         077  Lehigh         127  Wayne
+029  Chester        079  Luzerne        129  Westmoreland
+
+031  Clarion        081  Lycoming       131  Wyoming
+033  Clearfield     083  McKean         133  York  
+035  Clinton        085  Mercer
+037  Columbia       087  Mifflin
+039  Crawford       089  Monroe
+
+041  Cumberland     091  Montgomery
+043  Dauphin        093  Montour     
+045  Delaware       095  Northampton
+047  Elk            097  Northumberland
+049  Erie           099  Perry

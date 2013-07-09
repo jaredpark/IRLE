@@ -1,8 +1,9 @@
 # 12/24/2012 - first data pull
 # 03/08/2012 - second, test pull
 
-date = '03_23_2013'
-file.location = '~/projects/Reich/menu.scrape/outputs.pull2/'
+date = '06_02_2013'
+file.location = '~/projects/Reich/menu.scrape/outputs.pull3/'
+require(XML)
 
 ################
 ##   going from air to html menus in a list of lists
@@ -12,7 +13,7 @@ ca.cities = c('fremont', 'union-city', 'hayward', 'san-leandro', 'oakland', 'ber
               tolower(c('Campbell', 'Cupertino', 'Gilroy', 'Los-Altos', 'Los-Altos-Hills', 
                         'Los-Gatos', 'Milpitas', 'Monte-Sereno', 'Morgan-Hill', 'Mountain-View',
                         'Palo-Alto', 'Santa-Clara', 'Saratoga', 'Sunnyvale', 'San-Jose')))
-nm.cities = c('albuquerque', 'rio-rancho', 'santa-fe', 'las-cruces')
+nm.cities = c('albuquerque')#, 'rio-rancho', 'santa-fe', 'las-cruces')
 
 source('scrape.funcs.v3.R')
 

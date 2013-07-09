@@ -1,0 +1,33 @@
+WISCONSIN (WI) (55)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Adams          051  Iron           099  Price   
+003  Ashland        053  Jackson        101  Racine     
+005  Barron         055  Jefferson      103  Richland  
+007  Bayfield       057  Juneau         105  Rock
+009  Brown          059  Kenosha        107  Rusk   
+
+011  Buffalo        061 Kewaunee        109  St. Croix    
+013  Burnett        063  La Crosse      111  Sauk     
+015  Calumet        065  Lafayette      113  Sawyer  
+017  Chippewa       067  Langlade       115  Shawano  
+019  Clark          069  Lincoln        117  Sheboygan
+
+021  Columbia       071  Manitowoc      119  Taylor
+023  Crawford       073  Marathon       121  Trempealeau    
+025  Dane           075  Marinette      123  Vernon
+027  Dodge          077  Marquette      125  Vilas     
+029  Door           078  Menominee      127  Walworth 
+
+031  Douglas        079  Milwaukee      129  Washburn
+033  Dunn           081  Monroe         131  Washington    
+035  Eau Claire     083  Oconto         133  Waukesha           
+037  Florence       085  Oneida         135  Waupaca
+039  Fond du Lac    087  Outagamie      137  Waushara
+
+041  Forest         089  Ozaukee        139  Winnebago
+043  Grant          091  Pepin          141  Wood   
+045  Green          093  Pierce  
+047  Green Lake     095  Polk
+049  Iowa           097  Portage   

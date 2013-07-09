@@ -1,0 +1,45 @@
+KANSAS (KS) (20)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Allen          071  Greeley        141  Osborne
+003  Anderson       073  Greenwood      143  Ottawa
+005  Atchison       075  Hamilton       145  Pawnee
+007  Barber         077  Harper         147  Phillips
+009  Barton         079  Harvey         149  Pottawatomie
+
+011  Bourbon        081  Haskell        151  Pratt
+013  Brown          083  Hodgeman       153  Rawlins
+015  Butler         085  Jackson        155  Reno
+017  Chase          087  Jefferson      157  Republic
+019  Chautauqua     089  Jewell         159  Rice
+
+021  Cherokee       091  Johnson        161  Riley
+023  Cheyenne       093  Kearny         163  Rooks
+025  Clark          095  Kingman        165  Rush
+027  Clay           097  Kiowa          167  Russell
+029  Cloud          099  Labette        169  Saline
+
+031  Coffey         101  Lane           171  Scott
+033  Comanche       103  Leavenworth    173  Sedgwick
+035  Cowley         105  Lincoln        175  Seward
+037  Crawford       107  Linn           177  Shawnee
+039  Decatur        109  Logan          179  Sheridan
+
+041  Dickinson      111  Lyon           181  Sherman
+043  Doniphan       113  McPherson      183  Smith
+045  Douglas        115  Marion         185  Stafford
+047  Edwards        117  Marshall       187  Stanton
+049  Elk            119  Meade          189  Stevens
+
+051  Ellis          121  Miami          191  Sumner
+053  Ellsworth      123  Mitchell       193  Thomas
+055  Finney         125  Montgomery          195 Trego
+057  Ford           127  Morris         197  Wabaunsee
+059  Franklin       129  Morton         199  Wallace
+
+061  Geary          131  Nemaha         201  Washington
+063  Gove           133  Neosho         203  Wichita
+065  Graham         135  Ness           205  Wilson
+067  Grant          137  Norton         207  Woodson
+069  Gray           139  Osage          209  Wyandotte

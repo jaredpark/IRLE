@@ -1,0 +1,105 @@
+TEXAS (TX) (48)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Anderson       171  Gillespie      341  Moore
+003  Andrews        173  Glasscock      343  Morris
+005  Angelina       175  Goliad         345  Motley
+007  Aransas        177  Gonzales       347  Nacogdoches
+009  Archer         179  Gray           349  Navarro
+
+011  Armstrong      181  Grayson        351  Newton
+013  Atascosa       183  Gregg          353  Nolan
+015  Austin         185  Grimes         355  Nueces
+017  Bailey         187  Guadalupe      357  Ochiltree
+019  Bandera        189  Hale           359  Oldham
+
+021  Bastrop        191  Hall           361  Orange
+023  Baylor         193  Hamilton       363  Palo Pinto
+025  Bee            195  Hansford       365  Panola
+027  Bell           197  Hardeman       367  Parker
+029  Bexar          199  Hardin         369  Parmer
+
+031  Blanco         201  Harris         371  Pecos
+033  Borden         203  Harrison       373  Polk
+035  Bosque         205  Hartley        375  Potter
+037  Bowie          207  Haskell        377  Presidio
+039  Brazoria       209  Hays           379  Rains
+
+041  Brazos         211  Hemphill       381  Randall
+043  Brewster       213  Henderson      383  Reagan
+045  Briscoe        215  Hidalgo        385  Real
+047  Brooks         217  Hill           387  Red River
+049  Brown          219  Hockley        389  Reeves
+
+051  Burleson       221  Hood           391  Refugio
+053  Burnet         223  Hopkins        393  Roberts
+055  Caldwell       225  Houston        395  Robertson
+057  Calhoun        227  Howard         397  Rockwall
+059  Callahan       229  Hudspeth       399  Runnels
+
+061  Cameron        231  Hunt           401  Rusk
+063  Camp           233  Hutchinson     403  Sabine
+065  Carson         235  Irion          405  San Augustine
+067  Cass           237  Jack           407  San Jacinto
+069  Castro         239  Jackson        409  San Patricio
+
+071  Chambers       241  Jasper         411  San Saba
+073  Cherokee       243  Jeff Davis     413  Schleicher
+075  Childress      245  Jefferson      415  Scurry
+077  Clay           247  Jim Hogg       417  Shackelford
+079  Cochran        249  Jim Wells      419  Shelby
+
+081  Coke           251  Johnson        421  Sherman
+083  Coleman        253  Jones          423  Smith          
+085  Collin         255  Karnes         425  Somervell
+087  Collingsworth  257  Kaufman        427  Starr
+089  Colorado       259  Kendall        429  Stephens
+
+091  Comal          261  Kenedy         431  Sterling
+093  Comanche       263  Kent           433  Stonewall
+095  Concho         265  Kerr           435  Sutton
+097  Cooke          267  Kimble         437  Swisher
+099  Coryell        269  King           439  Tarrant
+
+101  Cottle         271  Kinney         441  Taylor
+103  Crane          273  Kleberg        443  Terrell
+105  Crockett       275  Knox           445  Terry
+107  Crosby         277  Lamar          447  Throckmorton
+109  Culberson      279  Lamb           449  Titus
+
+111  Dallam         281  Lampasas       451  Tom Green
+113  Dallas         283  La Salle       453  Travis
+115  Dawson         285  Lavaca         455  Trinity
+117  Deaf Smith     287  Lee            457  Tyler
+119  Delta          289  Leon           459  Upshur
+
+121  Denton         291  Liberty        461  Upton
+123  DeWitt*        293  Limestone      463  Uvalde
+125  Dickens        295  Lipscomb       465  Val Verde
+127  Dimmit         297  Live Oak       467  Van Zandt
+129  Donley         299  Llano          469  Victoria
+
+131  Duval          301  Loving         471  Walker
+133  Eastland       303  Lubbock        473  Waller
+135  Ector          305  Lynn           475  Ward
+137  Edwards        307  McCulloch      477  Washington
+139  Ellis          309  McLennan       479  Webb
+
+141  El Paso        311  McMullen       481  Wharton
+143  Erath          313  Madison        483  Wheeler
+145  Falls          315  Marion         485  Wichita
+147  Fannin         317  Martin         487  Wilbarger
+149  Fayette        319  Mason          489  Willacy
+
+151  Fisher         321  Matagorda      491  Williamson
+153  Floyd          323  Maverick       493  Wilson
+155  Foard          325  Medina         495  Winkler
+157  Fort Bend      327  Menard         497  Wise
+159  Franklin       329  Midland        499  Wood
+
+161  Freestone      331  Milam          501  Yoakum
+163  Frio           333  Mills          503  Young
+165  Gaines         335  Mitchell       505  Zapata
+167  Galveston      337  Montague       507  Zavala
+169  Garza          339  Montgomery

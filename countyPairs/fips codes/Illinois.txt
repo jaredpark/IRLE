@@ -1,0 +1,45 @@
+ILLINOIS (IL) (17)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Adams          071  Henderson      141  Ogle                   
+003  Alexander      073  Henry          143  Peoria               
+005  Bond           075  Iroquois       145  Perry                  
+007  Boone          077  Jackson        147  Piatt                  
+009  Brown          079  Jasper         149  Pike                   
+
+011  Bureau         081  Jefferson      151  Pope               
+013  Calhoun        083  Jersey         153  Pulaski                        
+015  Carroll        085  Jo Daviess     155  Putnam               
+017  Cass           087  Johnson        157  Randolph                   
+019  Champaign      089  Kane           159  Richland               
+
+021  Christian      091  Kankakee       161  Rock Island            
+023  Clark          093  Kendall        163  St. Clair                    
+025  Clay           095  Knox           165  Saline                
+027  Clinton        097  Lake           167  Sangamon                
+029  Coles          099  La Salle       169  Schuyler                     
+
+031  Cook           101  Lawrence       171  Scott                  
+033  Crawford       103  Lee            173  Shelby                   
+035  Cumberland     105  Livingston     175  Stark                
+037  DeKalb*        107  Logan          177  Stephenson                   
+039  De Witt        109  McDonough      179  Tazewell               
+
+041  Douglas        111  McHenry        181  Union
+043  DuPage*        113  McLean         183  Vermilion
+045  Edgar          115  Macon          185  Wabash
+047  Edwards        117  Macoupin       187  Warren
+049  Effingham      119  Madison        189  Washington            
+
+051  Fayette        121  Marion         191  Wayne
+053  Ford           123  Marshall       193  White
+055  Franklin       125  Mason          195  Whiteside
+057  Fulton         127  Massac         197  Will
+059  Gallatin       129  Menard         199  Williamson              
+
+061  Greene         131  Mercer         201  Winnebago
+063  Grundy         133  Monroe         203  Woodford
+065  Hamilton       135  Montgomery
+067  Hancock        137  Morgan
+069  Hardin         139  Moultrie

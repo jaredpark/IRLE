@@ -1,0 +1,27 @@
+NORTH DAKOTA (ND) (38)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Adams          041  Hettinger      081  Sargent
+003  Barnes         043  Kidder         083  Sheridan      
+005  Benson         045  LaMoure*       085  Sioux
+007  Billings       047  Logan          087  Slope
+009  Bottineau      049  McHenry        089  Stark
+
+011  Bowman         051  McIntosh       091  Steele
+013  Burke          053  McKenzie       093  Stutsman  
+015  Burleigh       055  McLean         095  Towner
+017  Cass           057  Mercer         097  Traill
+019  Cavalier       059  Morton         099  Walsh
+
+021  Dickey         061  Mountrail*     101  Ward
+023  Divide         063  Nelson         103  Wells      
+025  Dunn           065  Oliver         105  Williams
+027  Eddy           067  Pembina
+029  Emmons         069  Pierce
+
+031  Foster         071  Ramsey
+033  Golden Valley  073  Ransom    
+035  Grand Forks    075  Renville
+037  Grant          077  Richland
+039  Griggs         079  Rolette

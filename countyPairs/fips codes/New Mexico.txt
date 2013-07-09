@@ -1,0 +1,21 @@
+NEW MEXICO (NM) (35)
+                
+CODE NAME           CODE NAME            CODE NAME
+---- ----           ---- ----            ---- ----       
+001  Bernalillo     028  Los Alamos      057  Torrance
+003  Catron         029  Luna            059  Union
+005  Chaves         031  McKinley        061  Valencia
+006  Cibola         033  Mora
+007  Colfax         035  Otero
+
+009  Curry          037  Quay 
+011  De Baca*       039  Rio Arriba
+013  Dona Ana       041  Roosevelt
+015  Eddy           043  Sandoval
+017  Grant          045  San Juan
+
+019  Guadalupe      047  San Miguel
+021  Harding        049  Santa Fe
+023  Hidalgo        051  Sierra
+025  Lea            053  Socorro
+027  Lincoln        055  Taos

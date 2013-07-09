@@ -1,0 +1,33 @@
+NEW YORK (NY) (36)
+                
+CODE NAME            CODE NAME            CODE NAME
+---- ----            ---- ----            ---- ----       
+001  Albany          051  Livingston      101  Steuben
+003  Allegany        053  Madison         103  Suffolk
+005  Bronx           055  Monroe          105  Sullivan
+007  Broome          057  Montgomery      107  Tioga
+009  Cattaraugus     059  Nassau          109  Tompkins
+
+011  Cayuga          061  New York        111  Ulster
+013  Chautauqua      063  Niagara         113  Warren
+015  Chemung         065  Oneida          115  Washington
+017  Chenango        067  Onondaga        117  Wayne
+019  Clinton         069  Ontario         119  Westchester
+
+021  Columbia        071  Orange          121  Wyoming
+023  Cortland        073  Orleans         123  Yates
+025  Delaware        075  Oswego
+027  Dutchess        077  Otsego
+029  Erie            079  Putnam
+
+031  Essex           081  Queens
+033  Franklin        083  Rensselaer
+035  Fulton          085  Richmond
+037  Genesee         087  Rockland
+039  Greene          089  St. Lawrence
+
+041  Hamilton        091  Saratoga
+043  Herkimer        093  Schenectady
+045  Jefferson       095  Schoharie
+047  Kings           097  Schuyler
+049  Lewis           099  Seneca

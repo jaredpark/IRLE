@@ -1,0 +1,21 @@
+WASHINGTON (WA) (53)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Adams          031  Jefferson      061  Snohomish 
+003  Asotin         033  King           063  Spokane       
+005  Benton         035  Kitsap         065  Stevens    
+007  Chelan         037  Kittitas       067  Thurston     
+009  Clallam        039  Klickitat      069  Wahkiakum
+
+011  Clark          041  Lewis          071  Walla Walla 
+013  Columbia       043  Lincoln        073  Whatcom    
+015  Cowlitz        045  Mason          075  Whitman   
+017  Douglas        047  Okanogan       077  Yakima
+019  Ferry          049  Pacific
+
+021  Franklin       051  Pend Oreille
+023  Garfield       053  Pierce    
+025  Grant          055  San Juan
+027  Grays Harbor   057  Skagit
+029  Island         059  Skamania

@@ -1,0 +1,15 @@
+WYOMING (WY) (56)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Albany         021  Laramie        041  Uinta
+003  Big Horn       023  Lincoln        043  Washakie    
+005  Campbell       025  Natrona        045  Weston
+007  Carbon         027  Niobrara
+009  Converse       029  Park
+
+011  Crook          031  Platte
+013  Fremont        033  Sheridan
+015  Goshen         035  Sublette
+017  Hot Springs    037  Sweetwater
+019  Johnson        039  Teton

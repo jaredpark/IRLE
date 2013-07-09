@@ -1,0 +1,45 @@
+VIRGINIA (VA) (51)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Accomack       075  Goochland      153  Prince William 
+003  Albemarle      077  Grayson        155  Pulaski   
+005  Alleghany      079  Greene         157  Rappahannock
+007  Amelia         081  Greensville    159  Richmond   
+009  Amherst        083  Halifax        161  Roanoke  
+011  Appomattox     085  Hanover        163  Rockbridge
+
+013  Arlington      087  Henrico        165  Rockingham   
+015  Augusta        089  Henry          167  Russell
+017  Bath           091  Highland       169  Scott
+019  Bedford        093  Isle of Wight  171  Shenandoah
+021  Bland          095  James City     173  Smyth
+023  Botetourt      097  King and Queen 175  Southampton   
+
+025  Brunswick      099  King George    177  Spotsylvania
+027  Buchanan       101  King William   179  Stafford
+029  Buckingham     103  Lancaster      181  Surry
+031  Campbell       105  Lee            183  Sussex
+033  Caroline       107  Loudoun        185  Tazewell    
+035  Carroll        109  Louisa         187  Warren
+
+036*  Charles City   111  Lunenburg      191  Washington
+037*  Charlotte      113  Madison        193  Westmoreland
+041  Chesterfield   115  Mathews        195  Wise
+043  Clarke         117  Mecklenburg    197  Wythe      
+045  Craig          119  Middlesex      199  York
+047  Culpeper       121  Montgomery 
+
+049  Cumberland     125  Nelson
+051  Dickenson      127  New Kent 
+053  Dinwiddie      131  Northampton   
+057  Essex          133  Northumberland
+059  Fairfax        135  Nottoway     
+061  Fauquier       137  Orange 
+
+063  Floyd          139  Page
+065  Fluvanna       141  Patrick    
+067  Franklin       143  Pittsylvania
+069  Frederick      145  Powhatan
+071  Giles          147  Prince Edward
+073  Gloucester     149  Prince George

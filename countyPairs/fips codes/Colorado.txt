@@ -1,0 +1,33 @@
+COLORADO (CO) (08)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----               
+001  Adams          051  Gunnison       101  Pueblo
+003  Alamosa        053  Hinsdale       103  Rio Blanco
+005  Arapahoe       055  Huerfano       105  Rio Grande
+007  Archuleta      057  Jackson        107  Routt
+009  Baca           059  Jefferson      109  Saguache
+
+011  Bent           061  Kiowa          111  San Juan
+013  Boulder        063  Kit Carson     113  San Miguel
+015  Chaffee        065  Lake           115  Sedgwick
+017  Cheyenne       067  La Plata       117  Summit
+019  Clear Creek    069  Larimer        119  Teller
+
+021  Conejos        071  Las Animas     121  Washington
+023  Costilla       073  Lincoln        123  Weld
+025  Crowley        075  Logan          125  Yuma
+027  Custer         077  Mesa
+029  Delta          079  Mineral
+
+031  Denver         081  Moffat
+033  Dolores        083  Montezuma  
+035  Douglas        085  Montrose       
+037  Eagle          087  Morgan 
+039  Elbert         089  Otero
+
+041  El Paso        091  Ouray  
+043  Fremont        093  Park   
+045  Garfield       095  Phillips
+047  Gilpin         097  Pitkin
+049  Grand          099  Prowers

@@ -1,0 +1,10 @@
+MAINE (ME) (23)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Androscoggin   013  Knox           025  Somerset
+003  Aroostook      015  Lincoln        027  Waldo
+005  Cumberland     017  Oxford         029  Washington
+007  Franklin       019  Penobscot      031  York
+009  Hancock        021  Piscataquis       
+011  Kennebec       023  Sagadahoc

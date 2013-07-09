@@ -1,0 +1,12 @@
+ NEW JERSEY (NJ) (34)
+                
+CODE NAME            CODE NAME            CODE NAME
+---- ----            ---- ----            ---- ----       
+001  Atlantic        017  Hudson          033  Salem
+003  Bergen          019  Hunterdon       035  Somerset
+005  Burlington      021  Mercer          037  Sussex
+007  Camden          023  Middlesex       039  Union
+009  Cape May        025  Monmouth        041  Warren
+011  Cumberland      027  Morris
+013  Essex           029  Ocean
+015  Gloucester      031  Passaic

@@ -1,0 +1,27 @@
+WEST VIRGINIA (WV) (54)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Barbour        041  Lewis          081  Raleigh
+003  Berkeley       043  Lincoln        083  Randolph    
+005  Boone          045  Logan          085  Ritchie
+007  Braxton        047  McDowell       087  Roane
+009  Brooke         049  Marion         089  Summers
+
+011  Cabell         051  Marshall       091  Taylor
+013  Calhoun        053  Mason          093  Tucker     
+015  Clay           055  Mercer         095  Tyler
+017  Doddridge      057  Mineral        097  Upshur
+019  Fayette        059  Mingo          099  Wayne
+
+021  Gilmer         061  Monongalia     101  Webster
+023  Grant          063  Monroe         103  Wetzel  
+025  Greenbrier     065  Morgan         105  Wirt
+027  Hampshire      067  Nicholas       107  Wood   
+029  Hancock        069  Ohio           109  Wyoming   
+
+031  Hardy          071  Pendleton   
+033  Harrison       073  Pleasants         
+035  Jackson        075  Pocahontas   
+037  Jefferson      077  Preston   
+039  Kanawha        079  Putnam   

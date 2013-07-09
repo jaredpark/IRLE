@@ -1,0 +1,15 @@
+MARYLAND (MD) (24)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Allegany       023  Garrett        043  Washington
+003  Anne Arundel   025  Harford        045  Wicomico     
+005  Baltimore      027  Howard         047  Worcester
+009  Calvert        029  Kent
+011  Caroline       031  Montgomery
+
+013  Carroll        033  Prince George's*
+015  Cecil          035  Queen Anne's*            
+017  Charles        037  St. Mary's *
+019  Dorchester     039  Somerset     
+021  Frederick      041  Talbot

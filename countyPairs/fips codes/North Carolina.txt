@@ -1,0 +1,46 @@
+NORTH CAROLINA (NC) (37)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Alamance       071  Gaston         141  Pender
+003  Alexander      073  Gates          143  Perquimans
+005  Alleghany      075  Graham         145  Person
+007  Anson          077  Granville      147  Pitt
+009  Ashe           079  Greene         149  Polk
+
+011  Avery          081  Guilford       151  Randolph
+013  Beaufort       083  Halifax        153  Richmond
+015  Bertie         085  Harnett        155  Robeson
+017  Bladen         087  Haywood        157  Rockingham
+019  Brunswick      089  Henderson      159  Rowan
+
+021  Buncombe       091  Hertford       161  Rutherford             
+023  Burke          093  Hoke           163  Sampson
+025  Cabarrus       095  Hyde           165  Scotland
+027  Caldwell       097  Iredell        167  Stanly
+029  Camden         099  Jackson        169  Stokes
+
+031  Carteret       101  Johnston       171  Surry
+033  Caswell        103   Jones         173  Swain
+035  Catawba        105  Lee            175  Transylvania
+037  Chatham        107  Lenoir         177  Tyrrell
+039  Cherokee       109  Lincoln        179  Union
+
+041  Chowan         111  McDowell       181  Vance
+043  Clay           113  Macon          183  Wake
+045  Cleveland      115  Madison        185  Warren
+047  Columbus       117  Martin         187  Washington
+049  Craven         119  Mecklenburg    189  Watauga  
+
+051  Cumberland     121  Mitchell       191  Wayne
+053  Currituck      123  Montgomery     193  Wilkes                      
+055  Dare           125  Moore          195  Wilson             
+057  Davidson       127  Nash           197  Yadkin                    
+059  Davie          129  New Hanover    199  Yancey             
+
+
+061  Duplin         131  Northampton                   
+063  Durham         133  Onslow                        
+065  Edgecombe      135  Orange          
+067  Forsyth        137  Pamlico                              
+069  Franklin       139  Pasquotank

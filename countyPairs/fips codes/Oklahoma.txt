@@ -1,0 +1,39 @@
+OKLAHOMA (OK) (40)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Adair          061  Haskell        121  Pittsburg
+003  Alfalfa        063  Hughes         123  Pontotoc      
+005  Atoka          065  Jackson        125  Pottawatomie
+007  Beaver         067  Jefferson      127  Pushmataha
+009  Beckham        069  Johnston       129  Roger Mills
+
+011  Blaine         071  Kay            131  Rogers
+013  Bryan          073  Kingfisher     133  Seminole      
+015  Caddo          075  Kiowa          135  Sequoyah
+017  Canadian       077  Latimer        137  Stephens
+019  Carter         079  Le Flore       139  Texas
+
+021  Cherokee       081  Lincoln        141  Tillman
+023  Choctaw        083  Logan          143  Tulsa      
+025  Cimarron       085  Love           145  Wagoner
+027  Cleveland      087  McClain        147  Washington
+029  Coal           089  McCurtain      149  Washita
+
+031  Comanche       091  McIntosh       151  Woods 
+033  Cotton         093  Major          153  Woodward      
+035  Craig          095  Marshall
+037  Creek          097  Mayes
+039  Custer         099  Murray
+
+041  Delaware       101  Muskogee
+043  Dewey          103  Noble      
+045  Ellis          105  Nowata
+047  Garfield       107  Okfuskee
+049  Garvin         109  Oklahoma
+
+051  Grady          111  Okmulgee
+053  Grant          113  Osage      
+055  Greer          115  Ottawa
+057  Harmon         117  Pawnee      
+059  Harper         119  Payne

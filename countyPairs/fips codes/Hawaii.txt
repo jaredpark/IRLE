@@ -1,0 +1,6 @@
+HAWAII (HI) (15)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Hawaii          005  Kalawao         009  Maui
+003  Honolulu        007  Kauai

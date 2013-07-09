@@ -1,0 +1,27 @@
+SOUTH CAROLINA (SC) (45)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Abbeville      041  Florence       081  Saluda   
+003  Aiken          043  Georgetown     083  Spartanburg       
+005  Allendale      045  Greenville     085  Sumter   
+007  Anderson       047  Greenwood      087  Union   
+009  Bamberg        049  Hampton        089  Williamsburg   
+
+011  Barnwell       051  Horry          091  York   
+013  Beaufort       053  Jasper         
+015  Berkeley       055  Kershaw   
+017  Calhoun        057  Lancaster   
+019  Charleston     059  Laurens   
+
+021  Cherokee       061  Lee   
+023  Chester        063  Lexington     
+025  Chesterfield   065  McCormick   
+027  Clarendon      067  Marion   
+029  Colleton       069  Marlboro   
+
+031  Darlington     071  Newberry   
+033  Dillon         073  Oconee      
+035  Dorchester     075  Orangeburg
+037  Edgefield      077  Pickens   
+039  Fairfield      079  Richland   

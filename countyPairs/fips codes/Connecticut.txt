@@ -1,0 +1,7 @@
+CONNECTICUT (CT) (09)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----        
+001  Fairfield      007  Middlesex      013  Tolland
+003  Hartford       009  New Haven      015  Windham
+005  Litchfield     011  New London

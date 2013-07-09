@@ -1,0 +1,10 @@
+NEVADA (NV) (32)
+                
+CODE NAME            CODE NAME            CODE NAME
+---- ----            ---- ----            ---- ----       
+001  Churchill       013  Humboldt        027  Pershing
+003  Clark           015  Lander          029  Storey
+005  Douglas         017  Lincoln         031  Washoe
+007  Elko            019  Lyon            033  White Pine
+009  Esmeralda       021  Mineral
+011  Eureka          023  Nye

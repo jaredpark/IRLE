@@ -1,0 +1,9 @@
+MASSACHUSETTS (MA) (25)
+                
+CODE NAME           CODE NAME           CODE NAME
+
+001  Barnstable     011  Franklin       021  Norfolk
+003  Berkshire      013  Hampden        023  Plymouth
+005  Bristol        015  Hampshire      025  Suffolk
+007  Dukes          017  Middlesex      027  Worcester
+009  Essex          019  Nantucket

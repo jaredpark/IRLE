@@ -1,0 +1,51 @@
+KENTUCKY (KY) (21)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Adair          081  Grant          161  Mason
+003  Allen          083  Graves         163  Meade
+005  Anderson       085  Grayson        165  Menifee
+007  Ballard        087  Green          167  Mercer
+009  Barren         089  Greenup        169 Metcalfe
+
+011  Bath           091  Hancock        171  Monroe
+013  Bell           093  Hardin         173  Montgomery
+015  Boone          095  Harlan         175  Morgan
+017  Bourbon        097  Harrison       177  Muhlenberg
+019  Boyd           099  Hart           179  Nelson
+ 
+021  Boyle          101  Henderson      181  Nicholas
+023  Bracken        103  Henry          183  Ohio
+025  Breathitt      105  Hickman        185  Oldham
+027  Breckinridge   107  Hopkins        187  Owen
+029  Bullitt        109  Jackson        189  Owsley
+
+031  Butler         111  Jefferson      191  Pendleton
+033  Caldwell       113  Jessamine      193  Perry
+035  Calloway       115  Johnson        195  Pike
+037  Campbell       117  Kenton         197  Powell
+039  Carlisle       119  Knott          199  Pulaski
+
+041  Carroll        121  Knox           201  Robertson
+043  Carter         123  Larue          203  Rockcastle
+045  Casey          125  Laurel         205  Rowan
+047  Christian      127  Lawrence       207  Russell
+049  Clark          129  Lee            209  Scott
+    
+051  Clay           131  Leslie         211  Shelby
+053  Clinton        133  Letcher        213  Simpson
+055  Crittenden     135  Lewis          215  Spencer
+057  Cumberland     137  Lincoln        217  Taylor
+059  Daviess        139  Livingston     219  Todd
+
+061  Edmonson       141  Logan          221  Trigg
+063  Elliott        143  Lyon           223  Trimble
+065  Estill         145  McCracken      225  Union
+067  Fayette        147  McCreary       227  Warren
+069  Fleming        149  McLean         229  Washington
+
+071  Floyd          151  Madison        231  Wayne
+073  Franklin       153  Magoffin       233  Webster
+075  Fulton         155  Marion         235  Whitley
+077  Gallatin       157  Marshall       237  Wolfe
+079  Garrard        159  Martin         239  Woodford

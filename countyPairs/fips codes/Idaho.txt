@@ -1,0 +1,21 @@
+IDAHO (ID) (16)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----         
+001  Ada            031  Cassia         061  Lewis
+003  Adams          033  Clark          063  Lincoln
+005  Bannock        035  Clearwater     065  Madison
+007  Bear Lake      037  Custer         067  Minidoka
+009  Benewah        039  Elmore         069  Nez Perce
+
+011  Bingham        041  Franklin       071  Oneida 
+013  Blaine         043  Fremont        073  Owyhee      
+015  Boise          045  Gem            075  Payette 
+017  Bonner         047  Gooding        077  Power 
+019  Bonneville     049  Idaho          079  Shoshone 
+
+021  Boundary       051  Jefferson      081  Teton  
+023  Butte          053  Jerome         083  Twin Falls   
+025  Camas          055  Kootenai       085  Valley
+027  Canyon         057  Latah          087  Washington  
+029  Caribou        059  Lemhi

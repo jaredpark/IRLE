@@ -1,0 +1,27 @@
+MONTANA (MT) (30)
+                
+CODE NAME           CODE NAME           CODE NAME
+---- ----           ---- ----           ---- ----       
+001  Beaverhead     041  Hill           081  Ravalli
+003  Big Horn       043  Jefferson      083  Richland
+005  Blaine         045  Judith Basin   085  Roosevelt
+007  Broadwater     047  Lake           087  Rosebud
+009  Carbon         049  Lewis Clark  089  Sanders
+
+011  Carter         051  Liberty        091  Sheridan
+013  Cascade        053  Lincoln        093  Silver Bow
+015  Chouteau       055  McCone         095  Stillwater
+017  Custer         057  Madison        097  Sweet Grass
+019  Daniels        059  Meagher        099  Teton
+
+021  Dawson         061  Mineral        101  Toole
+023  Deer Lodge     063  Missoula       103  Treasure
+025  Fallon         065  Musselshell    105  Valley
+027  Fergus         067  Park           107  Wheatland
+029  Flathead       069  Petroleum      109  Wibaux
+
+031  Gallatin       071  Phillips       111  Yellowstone
+033  Garfield*      073  Pondera        
+035  Glacier        075  Powder River    
+037  Golden Valley  077  Powell               
+039  Granite        079  Prairie               
